@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="audio_sources">
+        <item>DEFAULT</item>
+        <item>MIC</item>
+        <item>VOICE_UPLINK</item>
+        <item>VOICE_DOWNLINK</item>
+        <item>VOICE_CALL</item>
+        <item>CAMCORDER</item>
+        <item>VOICE_RECOGNITION</item>
+        <item>VOICE_COMMUNICATION</item>
+    </string-array>
+</resources>
